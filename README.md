@@ -22,7 +22,7 @@ This is a **Machine Learning-powered**, **Data Science-infused**, **Logistic-fue
 ```bash
 # Clone the repository
 git clone https://github.com/Abhishek08Mishra/DiabetesFunLab.git
-cd diabetes-prediction-app
+cd DiabetesFunLab
 
 # Install dependencies
 pip install -r requirements.txt
@@ -56,7 +56,7 @@ Open your browser and start making predictions! 🎩✨
 
 ## 🌍 Live Demo
 
-You can interact with the model by visiting the live Streamlit app ([DiabetesFunLab](https://diabetesfunlab.streamlit.app/)). The app allows users to input study hours and predict their score.
+You can interact with the model by visiting the live Streamlit app ([DiabetesFunLab](https://diabetesfunlab.streamlit.app/)). The app allows users to input their health metrics and get info about their result.
 
 ---
 
