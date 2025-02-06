@@ -56,7 +56,7 @@ Open your browser and start making predictions! 🎩✨
 
 ## 🌍 Live Demo
 
-You can interact with the model by visiting the live Streamlit app ([DiabetesFunLab](https://diabetesfunlab.streamlit.app/)). The app allows users to input their health metrics and get info about their result.
+You can interact with the model by visiting the live Streamlit app ([DiabetesFunLab](https://diabetesfunlab.streamlit.app/)). The app allows users to input their health metrics and get info about their heakth issues.
 
 ---
 
