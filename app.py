@@ -9,8 +9,8 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("🚀 Welcome to AI Health Oracle 2.0: Your Personal Diabetes Predictor 🔮")
-
+st.title("🧠 AI Doc: Diabetes Oracle")
+st.subheader("🚀 Welcome to AI Health Oracle 2.0: Your Personal Diabetes Predictor 🔮")
 st.subheader("Where Data Science Meets Health 🚨💻")
 
 def main():
