@@ -55,6 +55,7 @@ def main():
 
             else:
                 st.success("Prediction: Non-Diabetic ✅")
+                st.balloons()
                 st.markdown("""
                 **High-Five! You're Crushing It!** 🎉  
                 Your stats say you're in the clear—low diabetes risk. Keep slaying those healthy habits!  
